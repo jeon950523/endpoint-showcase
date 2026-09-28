@@ -92,6 +92,6 @@ Base의 시설과 Research는 단순 수치 버프가 아니라 탐사 정보, �
 - 포함: 시스템 의도, Data/State 경계, 구현·검증 증거, 공개 승인된 미디어
 - 제외: Unity 프로젝트 전체, 실제 C# 소스 전체, CSV 원문 전체, 내부 설계 정본, 운영/인계 문서, 작업 로그, 비공개 자산 및 민감정보
 
-자세한 공개 설계 요약은 [docs](docs/)에 있습니다.
+전체 기획의 공개 상위 기준은 [Public Game Design SSOT](docs/GAME_DESIGN_SSOT_PUBLIC.md)에서 확인할 수 있습니다. 세부 설계 문서는 [docs](docs/)에 정리합니다.
 
 
